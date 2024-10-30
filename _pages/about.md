@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Technology Expert @<a href='https://www.huawei.com/en/'>Huawei</a>. Shenzhen, Guangdong, China
 
 profile:
   align: right
