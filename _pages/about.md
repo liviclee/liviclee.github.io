@@ -11,12 +11,12 @@ profile:
   more_info: >
     <p>Welcome to Jiawei’s Homepage</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am Jiawei (Jerry) Li, an AI Technology Expert at the Manufacturing Department, Huawei Technology Co., Ltd., working on Artificial Intelligence, Computer Vision, and Smart Manufacturing, and also an External Supervisor for the Shenzhen International Graduate School (SIGS), Tsinghua University, involved in guiding postgraduates. Prior to this, I worked as a Research Intern on Video Action Analysis, AIGC, and AI for Games at the Tencent TEG AI Lab and IEG Turing Lab, selected and supported by the 2019 Tencent Rhino-bird Elite Training Program.
+I am Jiawei (Jerry) Li, an Technology Expert at Huawei Technology Co., Ltd., and also an External Supervisor for the Shenzhen International Graduate School (SIGS), Tsinghua University, involved in guiding postgraduates. Prior to this, I worked as a Research Intern on Video Action Analysis, AIGC, and AI for Games at the Tencent TEG AI Lab and IEG Turing Lab, selected and supported by the 2019 Tencent Rhino-bird Elite Training Program.
 
 I received my Bachelor’s degree from the School of Software, Chongqing University (CQU) in 2015 and spent half year studying as an Exchange Student at the Department of Computer Science, National Tsing Hua University (NTHU), under the guidance of Porf. Jane W.-S. Liu. Then I continued to pursue my interests in the AI and CV fields, and earned my PhD degree in 2020 from the Department of Computer Science and Technology, Tsinghua University (THU), advised by Prof. Shu-Tao Xia. During this time, I also worked as a Research Assistant at the Department of Computing, Hong Kong Polytechnic University (PolyU) for a period.
 
