@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: Technology Expert @<a href='https://www.huawei.com/en/'>Huawei</a>. Shenzhen, Guangdong, China
+subtitle: Technology Expert at Huawei Technology Co., Ltd., Shenzhen, Guangdong, China
 
 profile:
   align: right
   image: lijiawei.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Welcome to Jiawei’s Homepage</p>
 
@@ -16,8 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Jiawei (Jerry) Li, an AI Technology Expert at the Manufacturing Department, Huawei Technology Co., Ltd., working on Artificial Intelligence, Computer Vision, and Smart Manufacturing, and also an External Supervisor for the Shenzhen International Graduate School (SIGS), Tsinghua University, involved in guiding postgraduates. Prior to this, I worked as a Research Intern on Video Action Analysis, AIGC, and AI for Games at the Tencent TEG AI Lab and IEG Turing Lab, selected and supported by the 2019 Tencent Rhino-bird Elite Training Program.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I received my Bachelor’s degree from the School of Software, Chongqing University (CQU) in 2015 and spent half year studying as an Exchange Student at the Department of Computer Science, National Tsing Hua University (NTHU), under the guidance of Porf. Jane W.-S. Liu. Then I continued to pursue my interests in the AI and CV fields, and earned my PhD degree in 2020 from the Department of Computer Science and Technology, Tsinghua University (THU), advised by Prof. Shu-Tao Xia. During this time, I also worked as a Research Assistant at the Department of Computing, Hong Kong Polytechnic University (PolyU) for a period.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My personal motto is “Don’t try to add more years to your life. Better add more life to your years.”, coming from Blaise Pascal. I read an more inspiring version of this quote from The Three-Body Problem, which is “Make time for civilization, for civilization won’t make time.”, written by Liu Cixin.
