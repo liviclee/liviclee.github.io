@@ -134,7 +134,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Jiawei Li's Tea House # blog_name will be displayed in your blog page
-blog_description: a simple whisper space for my thoughts, stories and ideas.
+blog_description: a space for the stories, thoughts and ideas.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
