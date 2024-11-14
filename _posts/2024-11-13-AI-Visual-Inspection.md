@@ -6,6 +6,7 @@ tags: AI CV Manufacturing
 date: 2024-11-13
 giscus_comments: true
 featured: true
+related_posts: true
 ---
 
 This article delves into my research on the scope and advancements of AI visual inspection.
