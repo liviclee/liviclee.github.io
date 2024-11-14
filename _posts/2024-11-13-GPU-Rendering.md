@@ -2,7 +2,7 @@
 layout: post
 title: GPU Rendering
 description: a blog post about GPU Rendering
-tags: AI CV MLSystem
+tags: AI CV MLSystems
 date: 2024-11-14
 giscus_comments: true
 featured: true
