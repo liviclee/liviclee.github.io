@@ -3,9 +3,9 @@ layout: distill
 title: a simple distill-style blog post
 description: my first post about an example of a simple distill-style blog post
 tags: distill formatting
-giscus_comments: true
 date: 2024-11-07
-featured: true
+giscus_comments: true
+featured: false
 
 authors:
   - name: Jiawei Li

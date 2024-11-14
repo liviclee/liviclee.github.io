@@ -1,11 +1,11 @@
 ---
 layout: post
 title: AI Visual Inspection
-date: 2024-11-13 16:17:00-0000
 description: a blog post about AI Visual Inspection
-tags: AI CV formatting math
-categories: sample-posts
-related_posts: false
+tags: AI CV Manufacturing
+date: 2024-11-13
+giscus_comments: true
+featured: true
 ---
 
 This article delves into my research on the scope and advancements of AI visual inspection.
