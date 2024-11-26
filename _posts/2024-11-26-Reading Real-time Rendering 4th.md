@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GPU Rendering
+title: Real-time Rendering
 description: a blog post about reading Real-time Rendering 4th
 tags: AI CV GPU Rendering
 date: 2024-11-26
